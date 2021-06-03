@@ -1,0 +1,3 @@
+- 👀 I’m a ROBLOX Developer
+- 🌱 I’m currently learning Lua
+- 😎 If you want to help me with scripting in roblox, contact me on discord blobbyblob#9731
